@@ -3,3 +3,7 @@ body{margin:0;padding:0;background:#ffe;font-size:12px;overflow:auto}#mainDiv{wi
 .text{
     text-align: justify;
 }
+img{
+    width: 200px;
+    height: 200px;
+}
